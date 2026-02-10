@@ -1,0 +1,30 @@
+# Virtual environments
+lerobot_env/
+venv/
+env/
+.env
+
+# Python cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.cache/
+
+# Large media files 
+*.avi
+*.mov
+*.mkv
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.sublime-workspace
+*.idea/
+*.vscode/
+
+# Build/dist files
+build/
+dist/
+*.egg-info/
